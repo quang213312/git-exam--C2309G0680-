@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 #Bai kiem tra thuc hanh Git
 #Bai kiem tra thuc hanh Git
+=======
+okeoke
+>>>>>>> {C2309G0680}-branch
